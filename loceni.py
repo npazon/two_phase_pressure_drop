@@ -8,7 +8,7 @@ Created on Thu Apr  15 18:01:25 2021
 import numpy as np
 
 def dokumentacija():
-    dok = open('dok_ločeni.txt', 'r', encoding='utf8')
+    dok = open('dok_loceni.txt', 'r', encoding='utf8')
     return print(dok.read())
 
 def lastnosti_toka(beta, m_tot, rho_L, mi_L, rho_G, mi_G, D):
