@@ -1,0 +1,13 @@
+1D model dvofaznega ločenega toka plin-kapljevina.
+Predpostavke modela: 
+- konstanten presek cevi,
+- polno razviti tok,
+- adiabaten sistem,
+- ustaljene razmere.
+
+Modul vključuje naslednje funkcije:
+- lastnosti_toka,
+- f_Darcy_faza,
+- tlačne_izgube_faza,
+- tlačne_izgube_LM,
+- tlačni_padec.

@@ -1,0 +1,16 @@
+1D model dvofaznega homogenega toka plin-kapljevina.
+Predpostavke modela:
+- faze potujejo z enako hitrostjo,
+- faze se dobro mešajo,
+- konstanten presek cevi,
+- polno razviti tok,
+- adiabaten sistem,
+- ustaljene razmere.
+
+Model je primeren za dobro dispergirane tokove, kot sta mehurčkasti in rahlo obročasti tok.
+
+Modul vključuje naslednje funkcije:
+- lastnosti_toka,
+- f_Darcy,
+- tlačne_izgube,
+- tlačni_padec.
